@@ -6,6 +6,4 @@ Olá! Bem vinde ao meu livro de receitas :wave:
 
 - Pavê
 
-  
-
-  HEAD
+- Bolo de Cenoura
